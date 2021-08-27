@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<h4 align="left">Password Generator
-* numbers
+<h4 align="left"> <br>Password Generator</br>
+<br>* numbers </br>
 * letters
 * symbols
 * copy to clipboard</h4>
