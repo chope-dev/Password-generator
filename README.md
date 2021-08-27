@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<h4 align="left"> <br>Password Generator</br>
+<h4 align="left"> <br>Password Generator</br></h4>
   <br>* numbers </br>
   <br>* letters</br>
   <br>* symbols</br>
-  <br>* copy to clipboard</br></h4>
+  <br>* copy to clipboard</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
