@@ -2,10 +2,10 @@
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 <h4 align="left"> <br>Password Generator</br>
-<br>* numbers </br>
-* letters
-* symbols
-* copy to clipboard</h4>
+  <br>* numbers </br>
+  <br>* letters</br>
+  <br>* symbols</br>
+  <br>* copy to clipboard</br></h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
